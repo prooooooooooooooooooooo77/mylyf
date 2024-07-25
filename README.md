@@ -10,4 +10,3 @@ I prefer this approach over vlogging, as it feels more personal and less intrusi
  .</p>
     <p>My vision for this site is to create a space that evolves over time, reflecting both my personal growth and our collective efforts to effect positive change. Thank you for joining me on this journey. I look forward to growing together and making a meaningful impact.</p>
 </body>
-</html>
