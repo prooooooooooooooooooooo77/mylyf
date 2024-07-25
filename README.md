@@ -1,5 +1,3 @@
-
-</head>
 <body>
     <h1>Welcome to My Website</h1>
     <p>Welcome to my personal website. Here, I will share updates on my life, current goals, and future aspirations. This platform is more than just a space for documenting my journey; it is a means to forge a deeper connection with you and make a tangible difference in the world.
