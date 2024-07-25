@@ -8,5 +8,5 @@ Currently, I am focused on developing and refining my skills, with website creat
 I prefer this approach over vlogging, as it feels more personal and less intrusive.I believe that many others may share this sentiment, which inspired me to create this space. This platform allows us to connect on a deeper level and engage in a more thoughtful and reflective manner.
 
  .</p>
-    <p>My vision for this site is to create a space that evolves over time, reflecting both my personal growth and our collective efforts to effect positive change. Thank you for joining me on this journey. I look forward to growing together and making a meaningful impact.</p>
+    <p>My vision for this site is to create a space that evolves over time, reflecting both our personal growth and our collective efforts to effect positive change. Thank you for joining me on this journey. I look forward to growing together and making a meaningful impact.</p>
 </body>
