@@ -16,6 +16,3 @@ Additionally, I aim to share stories and content that not only enrich your under
 
 ~ΛV
 
-
-
-</body>
