@@ -1,23 +1,8 @@
 <body>
    <h1> avni test site hasteg1 </h1>
-   <p>      _____
-   <p>      /      \
-   <p>     |  ???  |
-   <p>     |  O O  |
-   <p>     |   ~   |
-   <p>     \_____/
-   <p>      / | \
-   <p>    /  |  \
-   <p>   /   |   \
-   <p>   /    |    \
-   <p>  /_____|_____\
-   <p> |  idk bro |
-   <p> |_________________|
-   <p>       /       \
-   <p>      /         \
-   <p>     /           \
-   <p>   /             \
-   <p> /_______________\
+   <p>    Hello ,my people, I like doing this so I am doing this
+   <p>    I like discipline and try to install it in my system but I loose control.
+   <p>    ok bye ;)
 
 ~ΛV
 
